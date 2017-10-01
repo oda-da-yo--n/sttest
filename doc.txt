@@ -14,3 +14,4 @@ operation: feature/6: add line A
 operation: feature/6: add line B
 operation: cli-7: add line A
 operation: cli-7: add line B
+operation: cli-8: add line A
