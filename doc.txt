@@ -5,3 +5,4 @@ operation: create feature/1
 operation: feature/2: add line A
 operation: feature/2: add line B
 operation: feature/3: add line A
+operation: feature/3: add line B
