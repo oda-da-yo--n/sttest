@@ -3,3 +3,4 @@ create branch: develop
 operation: add new commit to develop
 operation: create feature/1
 operation: feature/2: add line A
+operation: feature/2: add line B
