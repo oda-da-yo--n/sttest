@@ -10,3 +10,5 @@ operation: feature/4: add line A
 operation: feature/4: add line B
 operation: feature/5: add line A
 operation: feature/5: add line B
+operation: feature/6: add line A
+operation: feature/6: add line B
