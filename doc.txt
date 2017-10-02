@@ -1,1 +1,24 @@
 operation: create new file
+create branch: develop
+operation: add new commit to develop
+operation: create feature/1
+operation: feature/2: add line A
+operation: feature/2: add line B
+operation: feature/3: add line A
+operation: feature/3: add line B
+operation: feature/4: add line A
+operation: feature/4: add line B
+operation: feature/5: add line A
+operation: feature/5: add line B
+operation: feature/6: add line A
+operation: feature/6: add line B
+operation: cli-7: add line A
+operation: cli-7: add line B
+operation: cli-8: add line A
+operation: cli-8: add line B
+operation:cli-10: add line A
+operation:cli-10: add line B
+operation: pr-1: add line A
+operation: pr-1: add line B
+operation: pr-2: add line A
+operation: pr-2: add line B
