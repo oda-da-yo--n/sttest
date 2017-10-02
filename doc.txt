@@ -20,3 +20,5 @@ operation:cli-10: add line A
 operation:cli-10: add line B
 operation: pr-1: add line A
 operation: pr-1: add line B
+operation: pr-2: add line A
+operation: pr-2: add line B
