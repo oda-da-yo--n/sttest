@@ -19,3 +19,4 @@ operation: cli-8: add line B
 operation:cli-10: add line A
 operation:cli-10: add line B
 operation: pr-1: add line A
+operation: pr-1: add line B
