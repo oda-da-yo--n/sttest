@@ -23,3 +23,5 @@ operation: pr-1: add line B
 operation: pr-2: add line A
 operation: pr-2: add line B
 operation:develop: add line dev-1
+operation:rebase-1: add line A
+operation:rebase-1: add line B
